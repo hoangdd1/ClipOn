@@ -1,0 +1,1 @@
+nrfutil pkg generate --application ble_app_bd_alert_s140_pca10056_v3_66.hex --application-version-string "3.6.6" --hw-version 52 --sd-req 0xCAFE --key-file dfu_private_key.pem bd_alert_3_66v.zip
